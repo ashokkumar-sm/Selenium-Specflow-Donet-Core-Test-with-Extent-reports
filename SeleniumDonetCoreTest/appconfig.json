@@ -1,0 +1,8 @@
+﻿{
+    "_comment": "https://www.browserstack.com/automate/capabilities",
+    "DefaultTimeout": 120,
+    "BrowserstackLocal": false,
+    "Project": "FunkyBDD - Automated E2E Testing Framework",
+    "Environment": "localhost"
+
+}
